@@ -1,0 +1,25 @@
+{
+  "name": "mediahash",
+  "version": "1.0.0",
+  "description": "Multimedia Perceptual hashing algorithms to identify similar or manipulated media files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrPurpleProgrammer/MediaHash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrPurpleProgrammer/MediaHash/issues"
+  },
+  "homepage": "https://github.com/MrPurpleProgrammer/MediaHash#readme",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "ipfs-only-hash": "^2.0.1",
+    "multer": "^1.4.2",
+    "sharp": "^0.25.4"
+  }
+}
